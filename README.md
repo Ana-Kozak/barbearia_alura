@@ -1,3 +1,0 @@
-# barbearia_alura
-
-A
